@@ -18,7 +18,7 @@ This has not been tested on HA earlier than 2024.9 and requires the following HA
   ![alt text](doc/dashboard_resources.jpg)
   - Add `https://fonts.googleapis.com/icon?family=Material+Icons` as a Stylesheet resource.
   ![alt text](doc/dashboard_resources_2.jpg)
-- Create the a new Dashboard and copy the contents of `dashboard_icons.yaml` to a it. 
+- Create the a new Dashboard and copy the contents of `dashboard_icons.yaml` to it. 
   - Go to Settings -> Dashboards -> ADD DASHBOARD -> New Dashboard from scratch
   - Give it a name and click CREATE
   - Go to the new dashboard and Edit -> Click on Three Dots menu -> Raw configuration editor.
