@@ -2,6 +2,14 @@
 Visualize instant power consumption and generation divided by categories.
 Tested on Sigenergy in all modes, including Ai.
 
+The included gauges are:
+- Consumption
+- Solar production
+- Grid import
+- Grid export
+- Battery charge
+- Battery discharge
+
 ![alt text](doc/energy_flow_gauge_example_1.jpg)
 
 ## Pre-requirements
