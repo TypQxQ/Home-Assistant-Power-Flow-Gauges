@@ -1,5 +1,6 @@
 # Home-Assistant-Power-Flow-Gauges
-Visualize instant power consumption and generation divided by categories.
+Visualize instant power consumption and generation divided by categories at a glance.
+
 Tested on Sigenergy in all modes, including Ai.
 
 The included gauges are:
